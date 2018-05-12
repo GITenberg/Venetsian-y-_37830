@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25086
     wikipedia: http://en.wikipedia.org/wiki/Holger_Drachmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37830#Venetsian-y-
 gutenberg_issued: '2011-10-23'
 gutenberg_type: Text
 identifiers:
